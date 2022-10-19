@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Mustafa
-- 🌱 I’m currently learning React
+                                                          ### Hi there 👋, I'm Mustafa
+                                                     - 🌱 I’m currently learning React
 <!--
 **muticalis/muticalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
