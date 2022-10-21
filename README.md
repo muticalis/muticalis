@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-- 🌱 I’m currently learning **React and Algorithms and Data Structures**
+- 🌱 I’m currently learning **Javascript and Algorithms and Data Structures**
 
 - 📫 How to reach me **muticalis@gmail.com**
 
